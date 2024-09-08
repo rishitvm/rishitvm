@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.licdn.com/dms/image/v2/C5612AQHaOSXXrz5Q8g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1597378731388?e=1731542400&v=beta&t=ONeqQBnr3FBhjq2GYuWz0aKTmMJvTz2BOHLnCHOIVvY" width="500" alt="MasterHead"></div>
 <h1 align="center">Hi 👋, I'm Rishit Varma Manthena</h1>
 <h3 align="center">A passionate Software and AI Engineer from India</h3><br>
-<img align="right" alt="Coding" width="380" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="350" height="230" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **MERN Stack, Advance AI and Deployment**
 
